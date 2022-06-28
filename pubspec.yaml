@@ -41,6 +41,9 @@ dependencies:
   dropdown_search: ^5.0.1
   http: ^0.13.4
   flutter_svg: ^1.1.0
+  shared_preferences: ^2.0.15
+  google_fonts: any
+  provider: ^4.0.3
 
 
 dev_dependencies:
